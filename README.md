@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArefKaramidev](https://github.com/ArefKaramidev) , https://vercel.com/arefkaramidevs-projects
+- 👨‍💻 All of my projects are available at [https://github.com/ArefKaramidev](https://github.com/ArefKaramidev) 
 
 - 📫 How to reach me **arefkrcoding@gmail.com**
 
